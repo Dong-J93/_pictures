@@ -1,42 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T09:47:07.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="D_n7D4emBSKKvYtY-8xM" version="20.2.7" type="github">
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="881" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-05-01T23:47:54.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" version="21.2.3" etag="PxpebJF3wD7XMlC0KIv2" type="github">
+  <diagram name="第 1 页" id="63xG8dQX-1LyPMiOhvoZ">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="CRTSimLiteQ" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="440" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-2" value="CWorkSpace" style="swimlane;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-          <mxGeometry y="20" width="210" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-4" value="CTarget" style="swimlane;" parent="ayUohLpm4s5QinlUl92y-2" vertex="1">
-          <mxGeometry x="5" y="30" width="195" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-10" value="name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ayUohLpm4s5QinlUl92y-4" vertex="1">
-          <mxGeometry x="30" y="25" width="135" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-20" value="IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ayUohLpm4s5QinlUl92y-4" vertex="1">
-          <mxGeometry x="30" y="40" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-21" value="type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ayUohLpm4s5QinlUl92y-4" vertex="1">
-          <mxGeometry x="30" y="65" width="135" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-5" value="CSingleProject" style="swimlane;" parent="ayUohLpm4s5QinlUl92y-2" vertex="1">
-          <mxGeometry x="5" y="140" width="195" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-7" value="CSimConfig" style="rounded=1;whiteSpace=wrap;html=1;" parent="ayUohLpm4s5QinlUl92y-5" vertex="1">
-          <mxGeometry x="25" y="30" width="145" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-8" value="CDeployTarget" style="rounded=1;whiteSpace=wrap;html=1;" parent="ayUohLpm4s5QinlUl92y-5" vertex="1">
-          <mxGeometry x="25" y="60" width="145" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-9" value="&amp;nbsp;CMonitorPanel" style="rounded=1;whiteSpace=wrap;html=1;" parent="ayUohLpm4s5QinlUl92y-5" vertex="1">
-          <mxGeometry x="25" y="90" width="145" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ayUohLpm4s5QinlUl92y-3" value="QTabWidget" style="swimlane;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-          <mxGeometry x="210" y="20" width="230" height="270" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
