@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T07:46:52.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="z8EITHOhe7fza5ncbXmy" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T07:47:34.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RhOK07dbjL8JDf9gqAuc" version="21.3.2" type="github">
   <diagram name="第 1 页" id="D8T1NSbYojLoOoO-aVT2">
     <mxGraphModel dx="1932" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -338,10 +338,10 @@
         <mxCell id="19CoJULS_3s1aGb-RFfC-250" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;32&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="1070" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="19CoJULS_3s1aGb-RFfC-253" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4个block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="19CoJULS_3s1aGb-RFfC-253" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;4个resnet_block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1110" width="470" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="19CoJULS_3s1aGb-RFfC-254" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6个block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="19CoJULS_3s1aGb-RFfC-254" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6个resnet_block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1214" width="470" height="50" as="geometry" />
         </mxCell>
         <mxCell id="19CoJULS_3s1aGb-RFfC-257" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -362,7 +362,7 @@
         <mxCell id="19CoJULS_3s1aGb-RFfC-262" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1370" width="43.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="19CoJULS_3s1aGb-RFfC-263" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6个block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="19CoJULS_3s1aGb-RFfC-263" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6个resnet_block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1310" width="470" height="50" as="geometry" />
         </mxCell>
         <mxCell id="19CoJULS_3s1aGb-RFfC-264" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -383,7 +383,7 @@
         <mxCell id="19CoJULS_3s1aGb-RFfC-269" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1470" width="43.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="19CoJULS_3s1aGb-RFfC-270" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3个block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="19CoJULS_3s1aGb-RFfC-270" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3个resnet_block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1400" width="470" height="50" as="geometry" />
         </mxCell>
         <mxCell id="19CoJULS_3s1aGb-RFfC-271" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;128&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
