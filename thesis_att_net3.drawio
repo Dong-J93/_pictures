@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T07:43:47.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="CLoaXXe9Fv8B_uN4IeU4" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T09:42:51.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qzoQvzg2xP5tmwfN7zV0" version="21.3.2" type="github">
   <diagram name="第 1 页" id="SoUFM3bobEv_M_4Bs4ss">
-    <mxGraphModel dx="1451" dy="1074" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="1093" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLAyiWmO-w-zgO_GL1V7-1" target="XLAyiWmO-w-zgO_GL1V7-2">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLAyiWmO-w-zgO_GL1V7-1" target="XLAyiWmO-w-zgO_GL1V7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调用AttentionUnit的forward(encoder_feats,state)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AttentionUnit(encoder_feats,state)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="75" y="-56" width="357" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLAyiWmO-w-zgO_GL1V7-2" target="XLAyiWmO-w-zgO_GL1V7-6">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLAyiWmO-w-zgO_GL1V7-2" target="XLAyiWmO-w-zgO_GL1V7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;xProj=self.xEmbed(encoder_feats)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="43.129999999999995" y="54" width="420.75" height="51" as="geometry" />
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;计算式(3-19)中W&lt;sub&gt;2&lt;/sub&gt;h&lt;sub&gt;j&lt;/sub&gt;&lt;br&gt;xProj=self.xEmbed(encoder_feats)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="43.13" y="41" width="420.75" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLAyiWmO-w-zgO_GL1V7-6" target="XLAyiWmO-w-zgO_GL1V7-9">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLAyiWmO-w-zgO_GL1V7-6" target="XLAyiWmO-w-zgO_GL1V7-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;sProj=self.sEmbed(state)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40.650000000000006" y="136" width="425.69" height="54" as="geometry" />
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;计算式(3-19)中W&lt;sub&gt;3&lt;/sub&gt;s&lt;sub&gt;i-1&lt;/sub&gt;&lt;br&gt;sProj=self.sEmbed(state)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40.65" y="136" width="425.69" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLAyiWmO-w-zgO_GL1V7-9" target="XLAyiWmO-w-zgO_GL1V7-11">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLAyiWmO-w-zgO_GL1V7-9" target="XLAyiWmO-w-zgO_GL1V7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;sumTanh=torch.tanh(sProj+xProj)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="114.5" y="230" width="278" height="60" as="geometry" />
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;式(3-19)中的tanh激活函数&lt;br&gt;sumTanh=torch.tanh(sProj+xProj)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="114.5" y="230" width="278" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLAyiWmO-w-zgO_GL1V7-11" target="XLAyiWmO-w-zgO_GL1V7-13">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLAyiWmO-w-zgO_GL1V7-11" target="XLAyiWmO-w-zgO_GL1V7-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;vProj=self.wEmbed(sumTanh)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="114.5" y="319" width="278" height="60" as="geometry" />
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;计算式(3-19)中的e&lt;sub&gt;i,j&lt;/sub&gt;&lt;br&gt;vProj=self.wEmbed(sumTanh)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="114.5" y="327" width="278" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLAyiWmO-w-zgO_GL1V7-13" target="XLAyiWmO-w-zgO_GL1V7-15">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XLAyiWmO-w-zgO_GL1V7-13" target="XLAyiWmO-w-zgO_GL1V7-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;alpha=softmax(vProj)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;权重归一化&lt;br&gt;alpha=softmax(vProj)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="114.5" y="414" width="278" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XLAyiWmO-w-zgO_GL1V7-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;return alpha&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XLAyiWmO-w-zgO_GL1V7-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;return alpha&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="193.5" y="503" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
