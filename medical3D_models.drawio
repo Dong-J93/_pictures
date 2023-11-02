@@ -1,6 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T04:25:08.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="UGxcfrbeRfsO7zeylfMr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T11:02:10.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="od6lVJVLsWV_teI9e379" version="22.0.8" type="github" pages="2">
   <diagram name="第 1 页" id="HdRl2YGbc42Iuh6aecqo">
-    <mxGraphModel>
+    <mxGraphModel dx="1690" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xssw1aRKkbNy5G8T9aDr-1" target="xssw1aRKkbNy5G8T9aDr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-1" value="void Medical3D::Distance()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="-184" width="242" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xssw1aRKkbNy5G8T9aDr-4" target="xssw1aRKkbNy5G8T9aDr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-4" value="ui.btnDistance-&amp;gt;text() == &quot;Distance&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="-101" width="322" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xssw1aRKkbNy5G8T9aDr-9" target="xssw1aRKkbNy5G8T9aDr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-9" value="ui.btnDistance-&amp;gt;text() == &quot;measuringBidimension&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="-16" width="322" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="xssw1aRKkbNy5G8T9aDr-11" target="xssw1aRKkbNy5G8T9aDr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-11" value="ui.btnDistance-&amp;gt;text() == &quot;measuringDistance&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="69" width="322" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="xssw1aRKkbNy5G8T9aDr-13" value="ui.btnDistance-&amp;gt;text() == &lt;br&gt;&quot;measuringAngel&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="154" width="322" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="i5yMb0C_HJSUXAQU9Rcx" name="第 2 页">
+    <mxGraphModel dx="1290" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
