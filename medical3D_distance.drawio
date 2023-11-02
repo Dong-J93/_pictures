@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T11:10:33.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SEiZCF6iAhMB5aT3kCUB" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T11:12:03.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zCcf8RygggPZiUXr9lYq" version="22.0.8" type="github">
   <diagram name="第 1 页" id="RQcP4bx2tq6C_gpuPIaD">
     <mxGraphModel dx="2345" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_TSY0I0suidC44yUt0tZ-19" value="&lt;div&gt;三个二维视图调用changeLeftPress3()&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设置按钮文本为&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;measuringAngle&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="283" y="64.5" width="356" height="67" as="geometry" />
+          <mxGeometry x="279" y="64.5" width="356" height="67" as="geometry" />
         </mxCell>
         <mxCell id="_TSY0I0suidC44yUt0tZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_TSY0I0suidC44yUt0tZ-20" target="_TSY0I0suidC44yUt0tZ-21">
           <mxGeometry relative="1" as="geometry">
@@ -106,6 +106,18 @@
         </mxCell>
         <mxCell id="_TSY0I0suidC44yUt0tZ-23" value="void Medical3D::Distance()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-31.5" y="-183" width="237" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="_TSY0I0suidC44yUt0tZ-28" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="219" y="-105.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TSY0I0suidC44yUt0tZ-29" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="219" y="-20.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TSY0I0suidC44yUt0tZ-30" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="219" y="64.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TSY0I0suidC44yUt0tZ-31" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="219" y="149.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
