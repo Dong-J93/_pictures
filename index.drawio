@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:45:58.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_NkzOoCltjUP74tv2AJS" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T04:56:05.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uhrMPCd5sSLCCxshRede" version="22.1.7" type="github">
   <diagram name="第 1 页" id="HQdXvS2Kd22kwt-1myGQ">
     <mxGraphModel dx="1275" dy="477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="-164" y="239" width="371" height="312" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-38" value="生成密文查询语句" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
-          <mxGeometry x="101" y="127" width="78" height="60" as="geometry" />
+          <mxGeometry x="64" y="48" width="156" height="36" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-48" value="查询加密数据的SQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
-          <mxGeometry x="145" y="36" width="95" height="40.5" as="geometry" />
+          <mxGeometry x="242" y="14" width="95" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-50" value="存到本地数据库" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
           <mxGeometry x="217" y="118" width="78" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="267" y="64" width="95" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-57" value="解密" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
-          <mxGeometry x="217" y="207" width="78" height="41" as="geometry" />
+          <mxGeometry x="242" y="207" width="78" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-62" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0;exitDx=0;exitDy=63.75;exitPerimeter=0;entryX=1;entryY=0.924;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kL6fY9l-77Ifht3OEV60-31" target="kL6fY9l-77Ifht3OEV60-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,23 +29,42 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kL6fY9l-77Ifht3OEV60-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kL6fY9l-77Ifht3OEV60-40" target="kL6fY9l-77Ifht3OEV60-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kL6fY9l-77Ifht3OEV60-66" value="元数据&lt;br&gt;和&lt;br&gt;查询运算符" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;direction=north;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
+          <mxGeometry x="80" y="118" width="124" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="kL6fY9l-77Ifht3OEV60-69" value="读入查询条件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
+          <mxGeometry x="-16" y="114" width="103" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kL6fY9l-77Ifht3OEV60-72" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kL6fY9l-77Ifht3OEV60-31" source="kL6fY9l-77Ifht3OEV60-66" target="kL6fY9l-77Ifht3OEV60-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="183" as="sourcePoint" />
+            <mxPoint x="265" y="133" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kL6fY9l-77Ifht3OEV60-73" value="生成明文查询语句" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
+          <mxGeometry x="64" y="209.5" width="156" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="kL6fY9l-77Ifht3OEV60-75" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="kL6fY9l-77Ifht3OEV60-31" source="kL6fY9l-77Ifht3OEV60-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275" y="172.5" as="sourcePoint" />
+            <mxPoint x="142" y="213" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="142" y="198" />
+              <mxPoint x="142" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kL6fY9l-77Ifht3OEV60-76" value="第二次查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
+          <mxGeometry x="171" y="241" width="103" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kL6fY9l-77Ifht3OEV60-77" value="最终查询结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="kL6fY9l-77Ifht3OEV60-31">
+          <mxGeometry x="35" y="258" width="103" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-32" value="控&lt;br&gt;&lt;br&gt;制&lt;br&gt;&lt;br&gt;台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-232" y="239" width="51" height="314" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-33" value="应用程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-31.5" y="206" width="109" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="kL6fY9l-77Ifht3OEV60-42" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kL6fY9l-77Ifht3OEV60-32" target="kL6fY9l-77Ifht3OEV60-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-181" y="396" as="sourcePoint" />
-            <mxPoint x="-57" y="396" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kL6fY9l-77Ifht3OEV60-40" value="存储查询条件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-151" y="380" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kL6fY9l-77Ifht3OEV60-45" value="加密数据库&lt;br&gt;&lt;br&gt;tpch库的en_orders表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="218" y="228" width="105" height="133" as="geometry" />
@@ -55,8 +74,7 @@
             <mxPoint x="23" y="409" as="sourcePoint" />
             <mxPoint x="218" y="271" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-24" y="271" />
-              <mxPoint x="218" y="271" />
+              <mxPoint x="-22" y="271" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,20 +117,25 @@
             <mxPoint x="131" y="492" as="sourcePoint" />
             <mxPoint x="218" y="495" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="92" y="495" />
-              <mxPoint x="218" y="495" />
+              <mxPoint x="117" y="495" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kL6fY9l-77Ifht3OEV60-64" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kL6fY9l-77Ifht3OEV60-40" target="kL6fY9l-77Ifht3OEV60-54">
+        <mxCell id="kL6fY9l-77Ifht3OEV60-64" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kL6fY9l-77Ifht3OEV60-73" target="kL6fY9l-77Ifht3OEV60-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="92" y="504" as="sourcePoint" />
+            <mxPoint x="-119.50000000000011" y="411" as="sourcePoint" />
             <mxPoint x="218" y="512" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-120" y="512" />
+              <mxPoint x="-22" y="512" />
               <mxPoint x="209" y="512" />
               <mxPoint x="209" y="514" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kL6fY9l-77Ifht3OEV60-68" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.987;exitY=0.466;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.592;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kL6fY9l-77Ifht3OEV60-32" target="kL6fY9l-77Ifht3OEV60-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="51" y="422" as="sourcePoint" />
+            <mxPoint x="101" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
