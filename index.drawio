@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T04:56:53.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iBIDO6OnEQtvX30jAabW" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T05:07:14.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JaqYfh-YrMCgPAq-bEIk" version="22.1.7" type="github" pages="2">
   <diagram name="第 1 页" id="HQdXvS2Kd22kwt-1myGQ">
     <mxGraphModel dx="1275" dy="477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,6 +137,63 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="51" y="422" as="sourcePoint" />
             <mxPoint x="101" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1VVgr9CgPjy2E5ibj15Q" name="第 2 页">
+    <mxGraphModel dx="1275" dy="477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4js0Tt1bf7Plx7xEXJiF-1" value="" style="swimlane;startSize=0;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="239" width="307" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="4js0Tt1bf7Plx7xEXJiF-11" value="计算索引" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="4js0Tt1bf7Plx7xEXJiF-1">
+          <mxGeometry x="32.5" y="152" width="97" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="4js0Tt1bf7Plx7xEXJiF-12" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4js0Tt1bf7Plx7xEXJiF-1" source="9q9BFuZE19pgep_s6nNX-1" target="4js0Tt1bf7Plx7xEXJiF-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69" y="199" as="sourcePoint" />
+            <mxPoint x="69" y="227" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="81" y="152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4js0Tt1bf7Plx7xEXJiF-13" value="把索引更新到加密数据库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="4js0Tt1bf7Plx7xEXJiF-1">
+          <mxGeometry x="168" y="159" width="103" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l4BxttVy56SVEmlkXT1b-4" value="逐行获取数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="4js0Tt1bf7Plx7xEXJiF-1">
+          <mxGeometry x="182" y="20" width="107" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9q9BFuZE19pgep_s6nNX-1" value="orderkey&lt;br&gt;和&lt;br&gt;totalprice" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;direction=north;" vertex="1" parent="4js0Tt1bf7Plx7xEXJiF-1">
+          <mxGeometry x="19" y="23" width="124" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="l4BxttVy56SVEmlkXT1b-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.038;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4js0Tt1bf7Plx7xEXJiF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312.99" y="51.94399999999996" as="sourcePoint" />
+            <mxPoint x="143" y="51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4js0Tt1bf7Plx7xEXJiF-16" value="应用程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-31.5" y="206" width="109" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4js0Tt1bf7Plx7xEXJiF-17" value="原数据库&lt;br&gt;&lt;br&gt;tpch库的&lt;br&gt;orders表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="218" y="228" width="105" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="l4BxttVy56SVEmlkXT1b-1" value="加密数据库&lt;br&gt;&lt;br&gt;tpch库的en_orders表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="218" y="363" width="105" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="4js0Tt1bf7Plx7xEXJiF-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.015;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4js0Tt1bf7Plx7xEXJiF-11" target="l4BxttVy56SVEmlkXT1b-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-123.50000000000011" y="425" as="sourcePoint" />
+            <mxPoint x="214" y="443.4999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-14" y="443" />
+              <mxPoint x="205" y="443" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
