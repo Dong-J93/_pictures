@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:28:35.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="VoCJjR_G9F6hkklbAAIY" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T03:32:04.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="NdRva3BWrCukUFzGdkh4" version="24.4.9" type="github">
   <diagram name="第 1 页" id="yZy7xea4q1P-TiWKa3Ix">
-    <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ps8kifpFl9g8RfAlh-FO-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#10739E;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="50" width="70" height="80" as="geometry" />
+          <mxGeometry x="310" y="52.5" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ps8kifpFl9g8RfAlh-FO-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#F2931E;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="130" width="70" height="80" as="geometry" />
+          <mxGeometry x="310" y="152.5" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ps8kifpFl9g8RfAlh-FO-3" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#AE4132;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="70" height="80" as="geometry" />
+          <mxGeometry x="310" y="257.5" width="70" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="ps8kifpFl9g8RfAlh-FO-4" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#23445D;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="70" height="80" as="geometry" />
+          <mxGeometry x="310" y="372.5" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ps8kifpFl9g8RfAlh-FO-5" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#12AAB5;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="370" width="70" height="80" as="geometry" />
+          <mxGeometry x="310" y="492.5" width="70" height="92.5" as="geometry" />
         </mxCell>
-        <mxCell id="ps8kifpFl9g8RfAlh-FO-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#10739E&quot;&gt;&lt;b&gt;2024年6月3号-6月9号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;完成对AMD的Topdown&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font size=&quot;1&quot;&gt;计算公式的调研&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="410" y="50" width="200" height="70" as="geometry" />
+        <mxCell id="ps8kifpFl9g8RfAlh-FO-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#10739E&quot;&gt;&lt;b style=&quot;&quot;&gt;2024年6月3号-6月9号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;完成对AMD的Topdown&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;计算公式的调研&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ps8kifpFl9g8RfAlh-FO-7" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;2024年6月10号-6月16号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;用C++实现对perf.unfold的处理，得到对应数据结构的队列&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="410" y="130" width="200" height="70" as="geometry" />
+        <mxCell id="ps8kifpFl9g8RfAlh-FO-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;2024年6月10号-6月16号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;用C++实现对perf.unfold的处理，得到对应数据结构的队列&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ps8kifpFl9g8RfAlh-FO-8" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#AE4132&quot;&gt;&lt;b&gt;2024年6月17号-6月23号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;将零散的队列存储的调用栈信息合并，并累和计数器信息，得到类似火焰图的调用栈多叉树&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="200" height="70" as="geometry" />
+        <mxCell id="ps8kifpFl9g8RfAlh-FO-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#AE4132&quot;&gt;&lt;b&gt;2024年6月17号-6月23号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;将零散的队列存储的调用栈信息合并，并累和计数器信息，得到类似火焰图的调用栈多叉树&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="255" width="270" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="ps8kifpFl9g8RfAlh-FO-9" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#23445D&quot;&gt;&lt;b&gt;2024年6月24号-6月30号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;实现函数级别的topdown计算，并在命令行输出&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="410" y="290" width="200" height="70" as="geometry" />
+        <mxCell id="ps8kifpFl9g8RfAlh-FO-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#23445D&quot;&gt;&lt;b&gt;2024年6月24号-6月30号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;实现函数级别的topdown计算，并在命令行输出&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ps8kifpFl9g8RfAlh-FO-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#12AAB5&quot;&gt;&lt;b&gt;2024年7月1号-7月10号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;调试bug，优化输出，撰写文档&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="200" height="70" as="geometry" />
+        <mxCell id="ps8kifpFl9g8RfAlh-FO-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#12AAB5&quot;&gt;&lt;b&gt;2024年7月1号-7月10号&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;调试bug，优化输出，撰写文档&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="266" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
