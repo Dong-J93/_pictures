@@ -332,8 +332,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WBKhQOQqXOi7_8ISmiGq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="7JaoMegNjS-IXDg0AnBG-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="270" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器A&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7JaoMegNjS-IXDg0AnBG-1">
+          <mxGeometry x="10" y="10" width="145.68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.vm_group;" vertex="1" parent="7JaoMegNjS-IXDg0AnBG-1">
+          <mxGeometry x="40" y="80" width="89.1" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-7" value="数据集整理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7JaoMegNjS-IXDg0AnBG-1">
+          <mxGeometry x="155.68" y="20" width="104.32" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-12" value="Prompt生成模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7JaoMegNjS-IXDg0AnBG-1">
+          <mxGeometry x="155.68" y="90" width="104.32" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-13" value="shell生成模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7JaoMegNjS-IXDg0AnBG-1">
+          <mxGeometry x="155.68" y="150" width="104.32" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="240" width="170" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器B&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bG0ki4N5-2gY7vXoMjVF-4">
+          <mxGeometry x="10" y="10" width="145.68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" vertex="1" parent="bG0ki4N5-2gY7vXoMjVF-4">
+          <mxGeometry x="45" y="80" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
