@@ -426,7 +426,10 @@
           <mxGeometry x="10" y="10" width="145.68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" parent="bG0ki4N5-2gY7vXoMjVF-4" vertex="1">
-          <mxGeometry x="45" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="45" y="65" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_CqWf-5hYeqawIJd8UQ_-1" value="LoRA微调模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bG0ki4N5-2gY7vXoMjVF-4">
+          <mxGeometry x="30.68" y="160" width="104.32" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7JaoMegNjS-IXDg0AnBG-1" target="bG0ki4N5-2gY7vXoMjVF-4" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
