@@ -395,7 +395,7 @@
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-12" value="调优指令(Prompt)生成模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
           <mxGeometry x="155.68" y="80" width="104.32" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bG0ki4N5-2gY7vXoMjVF-13" value="shell生成与执行模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-13" value="系统配置(shell)生成与执行模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
           <mxGeometry x="145.68" y="140" width="124.32" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WQqPA8v1TAzQl86kKjw2-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="7JaoMegNjS-IXDg0AnBG-1" edge="1">
