@@ -305,7 +305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UxIVkF0zO2aYML1jtbTU" name="第 4 页">
-    <mxGraphModel dx="1555" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2151" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,11 +357,20 @@
         <mxCell id="1x4TkyV_q_TcsA2pyUZC-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="250" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="GdS_y4tgoN-1HGMLu057-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="290" as="sourcePoint" />
+            <mxPoint x="590" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GdS_y4tgoN-1HGMLu057-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;strokeWidth=2.5;strokeColor=#363636;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GdS_y4tgoN-1HGMLu057-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;微调好的LoRA参数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="220" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GdS_y4tgoN-1HGMLu057-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;挂载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
