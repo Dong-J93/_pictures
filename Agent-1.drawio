@@ -455,32 +455,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K10Zpqwgkjx-qnU9EVM5" name="第 7 页">
-    <mxGraphModel dx="1370" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-1" target="JQCaXE6UJxPx75YnAjNd-2" edge="1">
+        <mxCell id="AL3OXzzKb7OMLYaAHs9t-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JQCaXE6UJxPx75YnAjNd-1" target="JQCaXE6UJxPx75YnAjNd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用微调过的大模型开始调优系统参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="373.5" y="160" width="201" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-2" target="JQCaXE6UJxPx75YnAjNd-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-2" value="确定服务器虚拟机配置和待加速的模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="230" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-3" target="JQCaXE6UJxPx75YnAjNd-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-3" value="训练得到默认配置下的训练时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="310" width="250" height="60" as="geometry" />
+          <mxGeometry x="373.5" y="290" width="201" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-5" target="JQCaXE6UJxPx75YnAjNd-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-5" value="运行Prompt生成模块，添加必需的命令行参数，生成Prompt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JQCaXE6UJxPx75YnAjNd-5" value="运行调优指令生成模块，添加必需的命令行参数，生成Prompt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="349" y="390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-7" target="JQCaXE6UJxPx75YnAjNd-21" edge="1">
@@ -572,8 +560,8 @@
             <Array as="points">
               <mxPoint x="164" y="550" />
               <mxPoint x="320" y="550" />
-              <mxPoint x="320" y="90" />
-              <mxPoint x="474" y="90" />
+              <mxPoint x="320" y="240" />
+              <mxPoint x="474" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
