@@ -383,7 +383,7 @@
         <mxCell id="7JaoMegNjS-IXDg0AnBG-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="240" width="280" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="bG0ki4N5-2gY7vXoMjVF-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器A&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;第一服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
           <mxGeometry x="10" y="10" width="145.68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.vm_group;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
@@ -422,7 +422,7 @@
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-4" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="240" width="170" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="bG0ki4N5-2gY7vXoMjVF-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;服务器B&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bG0ki4N5-2gY7vXoMjVF-4" vertex="1">
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;第二服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bG0ki4N5-2gY7vXoMjVF-4" vertex="1">
           <mxGeometry x="10" y="10" width="145.68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" parent="bG0ki4N5-2gY7vXoMjVF-4" vertex="1">
