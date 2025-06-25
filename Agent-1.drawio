@@ -455,7 +455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K10Zpqwgkjx-qnU9EVM5" name="第 7 页">
-    <mxGraphModel dx="1242" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1370" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,31 +463,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用微调过的大模型开始调优系统参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="404" y="130" width="140" height="40" as="geometry" />
+          <mxGeometry x="373.5" y="160" width="201" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-2" target="JQCaXE6UJxPx75YnAjNd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-2" value="确定服务器虚拟机配置和待加速的模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="200" width="250" height="60" as="geometry" />
+          <mxGeometry x="349" y="230" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-3" target="JQCaXE6UJxPx75YnAjNd-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-3" value="训练得到默认配置下的训练时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="290" width="250" height="60" as="geometry" />
+          <mxGeometry x="349" y="310" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-5" target="JQCaXE6UJxPx75YnAjNd-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-5" value="运行Prompt生成模块，添加必需的命令行参数，生成Prompt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="380" width="250" height="60" as="geometry" />
+          <mxGeometry x="349" y="390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-7" target="JQCaXE6UJxPx75YnAjNd-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-7" value="传输给服务器B上的deepseek接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="470" width="250" height="60" as="geometry" />
+          <mxGeometry x="349" y="480" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-9" target="JQCaXE6UJxPx75YnAjNd-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -507,12 +507,13 @@
         <mxCell id="JQCaXE6UJxPx75YnAjNd-13" value="应用新配置，在新配置下训练一次" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="349" y="845.5" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JQCaXE6UJxPx75YnAjNd-15" target="JQCaXE6UJxPx75YnAjNd-5" edge="1">
+        <mxCell id="JQCaXE6UJxPx75YnAjNd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="965.5" />
-              <mxPoint x="250" y="411" />
+              <mxPoint x="740" y="965.5000000000002" />
+              <mxPoint x="740" y="410" />
             </Array>
+            <mxPoint x="600" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-15" value="从日志文件得到训练时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -531,18 +532,19 @@
           <mxGeometry x="414" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-25" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="289" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-26" target="JQCaXE6UJxPx75YnAjNd-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="1020" />
+              <mxPoint x="-40" y="600" />
+              <mxPoint x="-40" y="1020" />
               <mxPoint x="474" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-26" value="得到效果最好的一次推荐配置和对应的训练时长" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="570" width="280" height="60" as="geometry" />
+          <mxGeometry y="570" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="404" y="1040" width="140" height="40" as="geometry" />
@@ -551,38 +553,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o_6sPJ_i69wsn-Stllgw-1" value="实验得到关键内核参数和取值范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="200" width="250" height="60" as="geometry" />
+          <mxGeometry x="39" y="220" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o_6sPJ_i69wsn-Stllgw-2" target="AL3OXzzKb7OMLYaAHs9t-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o_6sPJ_i69wsn-Stllgw-2" value="数据集整理模块依据（筛选过的）结果日志构建微调数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="290" width="250" height="60" as="geometry" />
+          <mxGeometry x="39" y="310" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3OXzzKb7OMLYaAHs9t-1" target="AL3OXzzKb7OMLYaAHs9t-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-1" value="数据集上传到第二服务器，由LoRA微调模块进对大模型进行微调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="380" width="250" height="60" as="geometry" />
+          <mxGeometry x="39" y="390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AL3OXzzKb7OMLYaAHs9t-3" target="JQCaXE6UJxPx75YnAjNd-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="35" y="540" />
-              <mxPoint x="210" y="540" />
-              <mxPoint x="210" y="110" />
-              <mxPoint x="474" y="110" />
+              <mxPoint x="164" y="550" />
+              <mxPoint x="320" y="550" />
+              <mxPoint x="320" y="90" />
+              <mxPoint x="474" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-3" value="将微调得到的参数模型挂载在大模型上，新的大模型作为智能体，进行参数调优" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="460" width="250" height="60" as="geometry" />
+          <mxGeometry x="39" y="470" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3OXzzKb7OMLYaAHs9t-5" target="o_6sPJ_i69wsn-Stllgw-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;开始微调大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="140" width="140" height="40" as="geometry" />
+          <mxGeometry x="94" y="160" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
