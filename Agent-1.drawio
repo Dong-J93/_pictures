@@ -455,7 +455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K10Zpqwgkjx-qnU9EVM5" name="第 7 页">
-    <mxGraphModel dx="883" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,7 +540,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o_6sPJ_i69wsn-Stllgw-1" value="实验得到关键内核参数和取值范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="220" width="250" height="60" as="geometry" />
+          <mxGeometry x="39" y="240" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o_6sPJ_i69wsn-Stllgw-2" target="AL3OXzzKb7OMLYaAHs9t-1">
           <mxGeometry relative="1" as="geometry" />
@@ -571,7 +571,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;开始微调大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="130" width="140" height="40" as="geometry" />
+          <mxGeometry x="94" y="170" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
