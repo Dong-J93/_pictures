@@ -39,7 +39,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hLtpY5u7ChXbEkxDG-HK" name="第 2 页">
-    <mxGraphModel dx="1038" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,8 +98,8 @@
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-22" value="" style="swimlane;startSize=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="300" width="151" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-23" value="Prompt生成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
-          <mxGeometry x="6" width="80" height="30" as="geometry" />
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-23" value="调优指令生成模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
+          <mxGeometry x="6" width="114" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-15" value="result log" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
           <mxGeometry x="6" y="30" width="55.5" height="30" as="geometry" />
@@ -150,7 +150,7 @@
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-34" value="" style="swimlane;startSize=0;dashed=1;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="250" y="201.75" width="205" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-35" value="Shell生成与执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-35" value="系统配置生成与执行模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
           <mxGeometry x="1.0658141036401503e-14" width="122.7" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-50" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;strokeWidth=2;strokeColor=#404040;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
