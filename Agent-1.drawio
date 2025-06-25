@@ -474,7 +474,7 @@
         <mxCell id="JQCaXE6UJxPx75YnAjNd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-7" target="JQCaXE6UJxPx75YnAjNd-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-7" value="传输给服务器B上的deepseek接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JQCaXE6UJxPx75YnAjNd-7" value="传输给第二服务器上的deepseek接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="349" y="480" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-9" target="JQCaXE6UJxPx75YnAjNd-11" edge="1">
