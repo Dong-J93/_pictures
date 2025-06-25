@@ -559,8 +559,14 @@
         <mxCell id="o_6sPJ_i69wsn-Stllgw-2" value="数据集整理模块依据（筛选过的）结果日志构建微调数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="290" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AL3OXzzKb7OMLYaAHs9t-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AL3OXzzKb7OMLYaAHs9t-1" target="AL3OXzzKb7OMLYaAHs9t-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AL3OXzzKb7OMLYaAHs9t-1" value="数据集上传到第二服务器，由LoRA微调模块进对大模型进行微调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="675" y="380" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AL3OXzzKb7OMLYaAHs9t-3" value="将微调得到的参数模型挂载在大模型上，新的大模型作为智能体，进行参数调优" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="460" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
