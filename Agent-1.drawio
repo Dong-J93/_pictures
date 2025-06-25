@@ -492,7 +492,7 @@
         <mxCell id="JQCaXE6UJxPx75YnAjNd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-13" target="JQCaXE6UJxPx75YnAjNd-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JQCaXE6UJxPx75YnAjNd-13" value="系统配置生成和执行模块应用新配置，让训练任务新配置下训练一次" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JQCaXE6UJxPx75YnAjNd-13" value="系统配置生成和执行模块应用新配置，让训练任务在新配置下训练一次" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="349" y="845.5" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQCaXE6UJxPx75YnAjNd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JQCaXE6UJxPx75YnAjNd-15" edge="1">
