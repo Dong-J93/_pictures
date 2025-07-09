@@ -258,10 +258,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ygFF8up0PBFclApRjzNL-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
-          <mxGeometry x="262.83" y="93" width="65.7" height="90" as="geometry" />
+          <mxGeometry x="297.15" y="94.5" width="65.7" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ygFF8up0PBFclApRjzNL-4" value="&lt;p class=&quot;MsoCommentText&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;关键内核参数候选清单&lt;/font&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
-          <mxGeometry x="182.82999999999998" y="38" width="218.27" height="60" as="geometry" />
+          <mxGeometry x="220.86999999999998" y="38" width="218.27" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hRFREN56BvGeJirDJXE--1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;strokeWidth=2;strokeColor=#404040;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
           <mxGeometry x="480.00000000000006" y="96" width="60" height="87" as="geometry" />
