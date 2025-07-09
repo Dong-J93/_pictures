@@ -223,8 +223,8 @@
             <mxPoint x="410.68000000000006" y="294.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rm5Frt0JAIXvNMQNLyju-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;modify sys-config&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
-          <mxGeometry x="440" y="200" width="167.85" height="50" as="geometry" />
+        <mxCell id="Rm5Frt0JAIXvNMQNLyju-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;系统配置动态注入过程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
+          <mxGeometry x="460" y="200" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4W6hzslNgrdZUintDOjr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="MIlOXgBpFUKFbH1P2nCK-1" source="kTq0xq_En07cax7vsCfp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -260,7 +260,7 @@
         <mxCell id="ygFF8up0PBFclApRjzNL-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
           <mxGeometry x="262.83" y="93" width="65.7" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ygFF8up0PBFclApRjzNL-4" value="&lt;p class=&quot;MsoCommentText&quot;&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;关键内核参数候选清单&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
+        <mxCell id="ygFF8up0PBFclApRjzNL-4" value="&lt;p class=&quot;MsoCommentText&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;关键内核参数候选清单&lt;/font&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
           <mxGeometry x="231.73" y="30" width="127.9" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hRFREN56BvGeJirDJXE--1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;strokeWidth=2;strokeColor=#404040;" parent="MIlOXgBpFUKFbH1P2nCK-1" vertex="1">
