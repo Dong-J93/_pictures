@@ -45,7 +45,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hLtpY5u7ChXbEkxDG-HK" name="第 2 页">
-    <mxGraphModel dx="910" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,10 +107,10 @@
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-23" value="调优指令生成模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
           <mxGeometry x="6" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-15" value="result log" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-15" value="结果日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
           <mxGeometry x="6" y="30" width="55.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-17" value="sys-&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;params&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;config&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-17" value="内核参数取值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
           <mxGeometry x="76" y="27.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-18" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#3E3E3E;" parent="DbPOcDgL6kpgI9xtFrYY-22" vertex="1">
@@ -311,7 +311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UxIVkF0zO2aYML1jtbTU" name="第 4 页">
-    <mxGraphModel dx="2283" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1415" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
