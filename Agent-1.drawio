@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.6" pages="7">
   <diagram name="第 1 页" id="cwW233bt7u2Y4tQ82L0e">
     <mxGraphModel dx="968" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,12 +376,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cptT6Ba06x45wj--xnrG" name="第 5 页">
-    <mxGraphModel dx="968" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="504" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7JaoMegNjS-IXDg0AnBG-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="240" width="280" height="210" as="geometry" />
+          <mxGeometry x="140" y="240" width="310" height="260" as="geometry" />
         </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;第一服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
           <mxGeometry x="10" y="10" width="145.68" height="50" as="geometry" />
@@ -395,7 +395,7 @@
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-12" value="调优指令(Prompt)生成模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
           <mxGeometry x="155.68" y="80" width="104.32" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bG0ki4N5-2gY7vXoMjVF-13" value="系统配置(shell)生成与执行模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
+        <mxCell id="bG0ki4N5-2gY7vXoMjVF-13" value="shell生成与执行模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="7JaoMegNjS-IXDg0AnBG-1" vertex="1">
           <mxGeometry x="145.68" y="140" width="124.32" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WQqPA8v1TAzQl86kKjw2-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="7JaoMegNjS-IXDg0AnBG-1" edge="1">
@@ -419,8 +419,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5cdWuGmqg7JhuMDLqx0B-9" value="参数筛选模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7JaoMegNjS-IXDg0AnBG-1">
+          <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-4" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="240" width="170" height="210" as="geometry" />
+          <mxGeometry x="530" y="240" width="170" height="250" as="geometry" />
         </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;第二服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bG0ki4N5-2gY7vXoMjVF-4" vertex="1">
           <mxGeometry x="10" y="10" width="145.68" height="50" as="geometry" />
@@ -428,7 +431,7 @@
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.networking;" parent="bG0ki4N5-2gY7vXoMjVF-4" vertex="1">
           <mxGeometry x="45" y="65" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_CqWf-5hYeqawIJd8UQ_-1" value="LoRA微调模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bG0ki4N5-2gY7vXoMjVF-4">
+        <mxCell id="_CqWf-5hYeqawIJd8UQ_-1" value="LoRA微调模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="bG0ki4N5-2gY7vXoMjVF-4" vertex="1">
           <mxGeometry x="30.68" y="160" width="104.32" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bG0ki4N5-2gY7vXoMjVF-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7JaoMegNjS-IXDg0AnBG-1" target="bG0ki4N5-2gY7vXoMjVF-4" edge="1">
