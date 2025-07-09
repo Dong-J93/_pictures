@@ -52,6 +52,9 @@
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.026;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DbPOcDgL6kpgI9xtFrYY-1" target="DbPOcDgL6kpgI9xtFrYY-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="375" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
