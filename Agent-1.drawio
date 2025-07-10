@@ -147,7 +147,7 @@
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-34" value="" style="swimlane;startSize=0;dashed=1;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="280" y="205" width="205" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-35" value="系统配置生成与执行模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-35" value="shell生成与执行模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
           <mxGeometry width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-50" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;strokeWidth=2;strokeColor=#404040;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
