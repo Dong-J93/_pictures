@@ -144,9 +144,6 @@
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="430.87" y="271.75" width="36.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-55" value="recommended&lt;div&gt;sys-params config&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
-          <mxGeometry x="368.25" y="234.25" width="116.75" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-34" value="" style="swimlane;startSize=0;dashed=1;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="280" y="205" width="205" height="137.5" as="geometry" />
         </mxCell>
@@ -176,6 +173,9 @@
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-54" value=".sh" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
           <mxGeometry x="74" y="78.24999999999999" width="55.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-55" value="推荐配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
+          <mxGeometry x="140" y="30" width="61.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sAxDQzEJTAKf-g9daVuw-1" value="参数筛选模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="110" y="210" width="130" height="30" as="geometry" />
