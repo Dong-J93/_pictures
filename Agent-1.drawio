@@ -45,7 +45,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hLtpY5u7ChXbEkxDG-HK" name="第 2 页">
-    <mxGraphModel dx="353" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="415" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,41 +141,35 @@
         <mxCell id="NCUpClRUbt9jH6cbDV46-3" value="第一服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="20" y="10" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
-          <mxGeometry x="430.87" y="271.75" width="36.5" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-34" value="" style="swimlane;startSize=0;dashed=1;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="280" y="205" width="205" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-35" value="系统配置生成与执行模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
-          <mxGeometry width="150" height="30" as="geometry" />
+          <mxGeometry x="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.recovery_plan;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
+          <mxGeometry x="126.19" y="62.129999999999995" width="36.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-50" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;strokeWidth=2;strokeColor=#404040;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
-          <mxGeometry x="85.5" y="71.7" width="34" height="42.5" as="geometry" />
+          <mxGeometry x="60.82" y="67.08" width="34" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10.806451612903226;endSize=3.2173076923076924;width=4.423076923076923;fillColor=#363636;" parent="DbPOcDgL6kpgI9xtFrYY-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="147.38" y="95.07999999999998" as="sourcePoint" />
-            <mxPoint x="120" y="94.8300000000001" as="targetPoint" />
+            <mxPoint x="122.69999999999999" y="90.45999999999998" as="sourcePoint" />
+            <mxPoint x="95.32" y="90.2100000000001" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-46" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=light-dark(#302c2c, #32a0ff);shadow=0;dashed=0;shape=mxgraph.ios7.icons.edit;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
-          <mxGeometry x="17.30000000000001" y="78.25000000000001" width="29.4" height="29.4" as="geometry" />
-        </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-51" value="deploy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
-          <mxGeometry x="-10" y="48.250000000000014" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NCUpClRUbt9jH6cbDV46-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=10.806451612903226;endSize=3.2173076923076924;width=4.423076923076923;fillColor=#363636;" parent="DbPOcDgL6kpgI9xtFrYY-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="95.07999999999997" as="sourcePoint" />
-            <mxPoint x="52.62000000000001" y="94.83000000000008" as="targetPoint" />
+            <mxPoint x="55.32" y="90.45999999999997" as="sourcePoint" />
+            <mxPoint x="27.940000000000012" y="90.21000000000008" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-54" value=".sh" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
-          <mxGeometry x="74" y="78.24999999999999" width="55.5" height="30" as="geometry" />
+          <mxGeometry x="49.32" y="73.62999999999998" width="55.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-55" value="推荐配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-34" vertex="1">
-          <mxGeometry x="140" y="30" width="61.75" height="30" as="geometry" />
+          <mxGeometry x="113.57" y="32.129999999999995" width="61.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sAxDQzEJTAKf-g9daVuw-1" value="参数筛选模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="NCUpClRUbt9jH6cbDV46-1" vertex="1">
           <mxGeometry x="110" y="210" width="130" height="30" as="geometry" />
