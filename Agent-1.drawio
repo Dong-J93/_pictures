@@ -66,7 +66,7 @@
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-3" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="370" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DbPOcDgL6kpgI9xtFrYY-5" value="sys-&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;params&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;config&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-3" vertex="1">
+        <mxCell id="DbPOcDgL6kpgI9xtFrYY-5" value="系统配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DbPOcDgL6kpgI9xtFrYY-3" vertex="1">
           <mxGeometry x="7.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DbPOcDgL6kpgI9xtFrYY-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.document;" parent="DbPOcDgL6kpgI9xtFrYY-3" vertex="1">
